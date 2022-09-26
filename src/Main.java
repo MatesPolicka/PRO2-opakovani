@@ -67,6 +67,8 @@ public class Main {
     * Vlákno
     * XML
     * VCS
+    * HTTP
+    * Soket
     * */
 
     private static void printStar(int x){
