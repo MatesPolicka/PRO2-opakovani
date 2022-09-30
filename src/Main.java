@@ -68,7 +68,7 @@ public class Main {
     * XML
     * VCS
     * HTTP
-    * Soket
+    * Socket
     * */
 
     private static void printStar(int x){
